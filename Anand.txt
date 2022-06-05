@@ -1,0 +1,2 @@
+.git holds all tracked and saved files.
+ls => provides all the 
